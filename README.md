@@ -13,25 +13,25 @@
 
 * **Diogo Rodrigues** </br>
 <a href = "https://github.com/diogoramosr"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:contatoworklog@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:contatoworklog@gmail.com"><img src="https://img.shields.io/badge/Gmail-B22222?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href= "https://www.linkedin.com/in/diogorodriguesr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "https://www.instagram.com/diogoramosro_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 * **Ana Ghirali** </br>
 <a href = "https://github.com/Anaghirali"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:Anaghirali@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:Anaghirali@gmail.com"><img src="https://img.shields.io/badge/Gmail-B22222?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href= "https://www.linkedin.com/in/73b914222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "https://www.instagram.com/anaghirali/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 * **Cristian Caetano** </br>
 <a href = "https://github.com/cristiancaetano29"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:cristiavaet@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:cristiavaet@gmail.com"><img src="https://img.shields.io/badge/Gmail-B22222?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href= "https://www.linkedin.com/in/cristian-c-6b2156224" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "https://www.instagram.com/cristiancaetano.s/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 * **Gabriel Perozim** </br>
 <a href = "https://github.com/gabrielfxz"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:gabrielperozim7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:gabrielperozim7@gmail.com"><img src="https://img.shields.io/badge/Gmail-B22222?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href= "https://www.linkedin.com/in/gabriel-perozim-749729226" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "https://www.instagram.com/gabriell999x/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
