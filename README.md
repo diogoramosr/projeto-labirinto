@@ -5,8 +5,8 @@
 <p>Projeto Desenvolvido em grupo, para colocar em prática as técnicas aprendida em Estrutura de Dados I da grade curricular do Colégio Técnico de Campinas.</br>
 Foi ultilizadas as classes Desenvolvidas em aula: Pilha & Fila.</p>
 
-[Fila](https://github.com/diogoramosr/Projeto-Labirinto/blob/master/src/Fila.java)<br>
-[Pilha](https://github.com/diogoramosr/Projeto-Labirinto/blob/master/src/Pilha.java)
+[Fila](https://github.com/diogoramosr/Projeto-Labirinto/blob/main/ProjetoLabirinto/src/Fila.java)<br>
+[Pilha](https://github.com/diogoramosr/Projeto-Labirinto/blob/main/ProjetoLabirinto/src/Pilha.java)
 
 
 ## Desenvolvedores/Donos:
