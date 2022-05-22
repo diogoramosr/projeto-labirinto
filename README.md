@@ -2,8 +2,8 @@
 
 <img height="30em" src="https://img.shields.io/badge/Java-A52A2A?style=for-the-badge&logo=java&logoColor=white"/> 
 
-<p>Projeto Desenvolvido em grupo, para colocar em prática as técnicas aprendida em Estrutura de Dados I da grade curricular do Colégio Técnico de Campinas.</br>
-Foi ultilizadas as classes Desenvolvidas em aula: Pilha & Fila.</p>
+<p>Projeto Desenvolvido em grupo para colocar em prática as técnicas aprendida em Estrutura de Dados I, referente a grade curricular do Colégio Técnico de Campinas - Desenvolvimento de Sistemas.</p>
+<p>Foi ultilizadas as classes Desenvolvidas em aula: Pilha & Fila.</p>
 
 [Fila](https://github.com/diogoramosr/Projeto-Labirinto/blob/main/ProjetoLabirinto/src/Fila.java)<br>
 [Pilha](https://github.com/diogoramosr/Projeto-Labirinto/blob/main/ProjetoLabirinto/src/Pilha.java)
