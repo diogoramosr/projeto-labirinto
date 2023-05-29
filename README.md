@@ -1,7 +1,5 @@
 # Projeto-Labirinto
 
-<img height="30em" src="https://img.shields.io/badge/Java-A52A2A?style=for-the-badge&logo=java&logoColor=white"/> 
-
 <p>Projeto Desenvolvido em grupo para colocar em prática as técnicas aprendida em Estrutura de Dados I, referente a grade curricular do Colégio Técnico de Campinas - Desenvolvimento de Sistemas.</p>
 <p>Foi ultilizadas as classes Desenvolvidas em aula: Pilha & Fila.</p>
 
@@ -36,8 +34,9 @@
 <a href = "https://www.instagram.com/gabriell999x/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
-## IDEA
+## :rocket: Tecnologias
 
-A IDEA ultilizada para Desenvolver esse projeto foi: <img align="center" alt="Jetbrains" height="30" width="140" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></img>
+-  [Java](https://docs.oracle.com/en/java/)
+-  [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/)
 
 ---
