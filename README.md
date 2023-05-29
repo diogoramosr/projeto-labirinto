@@ -1,4 +1,4 @@
-# Projeto-Labirinto
+# Projeto Labirinto
 
 <p>Projeto Desenvolvido em grupo para colocar em prática as técnicas aprendida em Estrutura de Dados I, referente a grade curricular do Colégio Técnico de Campinas - Desenvolvimento de Sistemas.</p>
 <p>Foi ultilizadas as classes Desenvolvidas em aula: Pilha & Fila.</p>
